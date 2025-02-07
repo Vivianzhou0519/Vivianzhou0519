@@ -1,16 +1,13 @@
-## Hi there 👋
+I'm Vivian Zhou, a sophomore at Stanford University with a double major in Computer Science (AI track) and Product Design (Digital Track). I have a strong passion for startups and thrive in fast-paced environments where I can collaborate and grow alongside talented individuals. My previous experience includes working at a fashion tech company and a vector database startup. Currently, I am building an AI tool for fashion creators.
 
-<!--
-**Vivianzhou0519/Vivianzhou0519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm also deeply interested in web and app design, as well as developing websites and iOS applications. If you share similar passions or simply want to connect, feel free to reach out!
 
-Here are some ideas to get you started:
+Ask me about:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Consumer startups
+App building and designing
+Contact:
+
+Email: zhouv@stanford.edu
+X (formerly Twitter): @vivianyuezhou
+😄 Pronouns: she/her
